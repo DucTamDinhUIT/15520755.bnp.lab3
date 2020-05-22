@@ -1,2 +1,7 @@
 
 *.resources
+*.exe
+*.config
+*.pdb
+*.cache
+
