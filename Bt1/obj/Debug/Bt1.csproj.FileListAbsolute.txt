@@ -1,0 +1,12 @@
+C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt1\bin\Debug\Bt1.exe.config
+C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt1\bin\Debug\Bt1.exe
+C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt1\bin\Debug\Bt1.pdb
+C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt1\obj\Debug\Bt1.csprojAssemblyReference.cache
+C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt1\obj\Debug\Bt1.Dashboard.resources
+C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt1\obj\Debug\Bt1.Form1.resources
+C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt1\obj\Debug\Bt1.Form2.resources
+C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt1\obj\Debug\Bt1.Properties.Resources.resources
+C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt1\obj\Debug\Bt1.csproj.GenerateResource.cache
+C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt1\obj\Debug\Bt1.csproj.CoreCompileInputs.cache
+C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt1\obj\Debug\Bt1.exe
+C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt1\obj\Debug\Bt1.pdb
