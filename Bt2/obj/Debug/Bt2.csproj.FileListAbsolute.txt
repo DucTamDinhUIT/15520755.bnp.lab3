@@ -7,3 +7,4 @@ C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt2\obj\Debu
 C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt2\obj\Debug\Bt2.csproj.CoreCompileInputs.cache
 C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt2\obj\Debug\Bt2.exe
 C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt2\obj\Debug\Bt2.pdb
+C:\Users\HERA.fgatraining\Desktop\15520755\LTMCB\lab3\15520755_Lab3\Bt2\obj\Debug\Bt2.Form1.resources
