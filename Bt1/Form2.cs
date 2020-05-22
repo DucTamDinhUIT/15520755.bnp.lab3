@@ -26,5 +26,10 @@ namespace Bt1
             Byte[] sendBytes = Encoding.ASCII.GetBytes(richTextBox1.Text);
             udpClient.Send(sendBytes, sendBytes.Length);
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
